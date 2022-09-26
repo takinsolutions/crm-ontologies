@@ -14,7 +14,7 @@
       "CIDOC_CRM_v7.1.1_PC_Extended.xml"
   ],
   
-  "ontology_namespaces" = [
+  "ontology_namespaces": [
         "http://purl.org/dc/terms/": "dcterms",
         "http://purl.org/dc/elements/1.1/": "dc",
         "http://schema.org/": "schema",
