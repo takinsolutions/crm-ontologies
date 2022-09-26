@@ -14,25 +14,8 @@
       "CIDOC_CRM_v7.1.1_PC_Extended.xml"
   ],
   
-  "ontology_namespaces": [
-        "http://purl.org/dc/terms/": "dcterms",
-        "http://purl.org/dc/elements/1.1/": "dc",
-        "http://schema.org/": "schema",
-        "http://www.w3.org/2004/02/skos/core#": "skos",
-        "http://www.w3.org/2000/01/rdf-schema#": "rdfs",
-        "http://xmlns.com/foaf/0.1/": "foaf",
-        "http://www.w3.org/2001/XMLSchema#": "xsd",
-        "http://www.w3.org/1999/02/22-rdf-syntax-ns#": "rdf",
-        "http://www.cidoc-crm.org/cidoc-crm/": "",
-        "http://www.ics.forth.gr/isl/CRMgeo/": "geo",
-        "http://www.ics.forth.gr/isl/CRMsci/": "sci",
-        "http://iflastandards.info/ns/fr/frbr/frbroo/": "frbroo",
-        "http://parthenos.d4science.org/CRMext/": "pe",
-        "http://takin.solutions/ontologies/crmaaa/": "crmaaa",
-        "http://www.cidoc-crm.org/cidoc-crm/CRMarchaeo/": "archaeo"
-  ],
-
+ 
   "base_version": "7.1.1",
-  "base_id": "7687d05c-38d0-11ed-a261-0242ac120002"
+  "base_id": "67f04d56-fae0-46e6-9faa-a514ee53011c"
               
 }
