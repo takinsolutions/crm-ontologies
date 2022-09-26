@@ -22,7 +22,6 @@
         "http://www.w3.org/2000/01/rdf-schema#": "rdfs",
         "http://xmlns.com/foaf/0.1/": "foaf",
         "http://www.w3.org/2001/XMLSchema#": "xsd",
-        "https://linked.art/ns/terms/": 'la',
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#": "rdf",
         "http://www.cidoc-crm.org/cidoc-crm/": "",
         "http://www.ics.forth.gr/isl/CRMgeo/": "geo",
@@ -30,7 +29,6 @@
         "http://iflastandards.info/ns/fr/frbr/frbroo/": "frbroo",
         "http://parthenos.d4science.org/CRMext/": "pe",
         "http://takin.solutions/ontologies/crmaaa/": "crmaaa",
-        "http://takin.solutions/ns/CRMSurv/": "surv",
         "http://www.cidoc-crm.org/cidoc-crm/CRMarchaeo/": "archaeo"
   ],
 
