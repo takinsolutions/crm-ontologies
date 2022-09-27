@@ -1,6 +1,6 @@
 {
   "base": "CIDOC_CRM_v7.1.1.xml",
-  "base_name": "Takin",
+  "base_name": "Takin.solutions",
   "extensions": [
       "linkedart.xml",
       "linkedart_crm_enhancements.xml",
