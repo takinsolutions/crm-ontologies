@@ -16,7 +16,9 @@ Encoding Rules:
    For instance "P2 has type (is type of)" is represented as:
    "P2_has_type" for the domain to range direction and "P2i_is_type_of" for the range to domain direction.
 -->
-<rdf:RDF xml:lang="en" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="https://takin.solutions/ontologies/crmaaa/">
+<rdf:RDF xml:lang="en" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	 xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+	 xml:base="https://takin.solutions/crmaaa/">
 
 <rdfs:Class rdf:about="http://www.cidoc-crm.org/cidoc-crm/E13_Attribute_Assignment">
     <rdfs:subClassOf rdf:resource="ZE13_Speech_Act"/>
