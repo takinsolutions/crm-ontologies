@@ -124,7 +124,7 @@
     <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
     <rdfs:range rdf:resource="U7_Fabric"/>
 </rdf:Property>
-<rdf:Property rdf:about="UP4i_part of type fabric is contained by">
+<rdf:Property rdf:about="UP4i_part_of_type_fabric_is_contained_by">
     <rdfs:label xml:lang="en">part of type fabric is contained by</rdfs:label>
     <rdfs:comment>
     </rdfs:comment>
