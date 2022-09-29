@@ -23,7 +23,7 @@ FORTH appreciates your feed-back on such errors.
 5. For validity purposes it has been declared A1 Excavation Process Unit isA E6 Destruction, this is a pending issue
 -->
 <rdf:RDF xml:lang="en" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-xml:base="https://www.cidoc-crm.org/crmarchaeo/">
+xml:base="https://www.cidoc-crm.org/cidoc-crm/CRMarchaeo/">
 
 <rdfs:Class rdf:about="A1_Excavation_Process_Unit">
 	<rdfs:label xml:lang="en">Excavation Process Unit</rdfs:label>
