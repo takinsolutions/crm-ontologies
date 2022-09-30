@@ -22,7 +22,7 @@ Encoding Rules:
 
 -->
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
-xml:base="https://projects.ics.forth.gr/isl/CRMext/CRMdig_v3.2.2.rdfs/" xml:lang="en">
+xml:base="http://www.ics.forth.gr/isl/CRMdig/" xml:lang="en">
 
 <rdfs:Class rdf:about="D1_Digital_Object">
 <rdfs:label xml:lang="en">Digital Object</rdfs:label>
